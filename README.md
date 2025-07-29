@@ -50,3 +50,13 @@ TOKEN = 'YOUR_BOT_TOKEN_HERE'       # Your Discord bot token (string)
 
 - Bot Permissions: Manage Roles, Send Messages
 # Once again, thanks for downloading my code, consider giving a star on my Github page 🌟.
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KannaDz&show_icons=true&theme=radical)
+
+# **Connect with me 😎**
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ux7tGZ5vS4)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kannadz)
+
+
+
