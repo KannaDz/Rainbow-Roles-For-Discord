@@ -6,7 +6,7 @@ This bot automatically changes the color of a specified role in your Discord ser
 
 ## Setup Instructions 📝
 
-1. **Clone the repository or download the `bot.py` file🤖.**
+1. **Clone the repository or download the `main.py` file🤖.**
 
 2. **Install dependencies👾**
 
