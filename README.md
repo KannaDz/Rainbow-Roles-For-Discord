@@ -10,7 +10,7 @@ This bot automatically changes the color of a specified role in your Discord ser
 
 2. **Install dependencies👾**
 
-Make sure you have Python 3.8 or newer installed⚠.
+**Make sure you have Python 3.8 or newer installed⚠.**
 
 `pip install -U discord.py`
 
@@ -28,6 +28,10 @@ TOKEN = 'YOUR_BOT_TOKEN_HERE'       # Your Discord bot token (string)
 
 **You can get these IDs by enabling Developer Mode in Discord (Settings > Advanced > Developer Mode), right-clicking your server or role, and selecting "Copy ID".**
 
+**Changing the color speed of the bot:**
+
+`@tasks.loop(seconds=1)`
+- Change the value after the "=" to change the speed of the bot. Ex: 1 = 1 seconds.
 4. **Run the bot🏃‍♂️**
 
 `python main.py`
