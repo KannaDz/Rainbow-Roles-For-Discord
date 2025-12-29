@@ -16,7 +16,7 @@ This bot automatically changes the color of a specified role in your Discord ser
 
 3. **Configure your bot🧰**
 
-- Open bot.py
+- Open main.py
 
 - Replace the placeholders with your own information:
 
